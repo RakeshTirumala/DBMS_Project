@@ -1,0 +1,1 @@
+CREATE INDEX unique_index_name ON ne_50m_urban_areas USING GIST(geom);
